@@ -11,6 +11,6 @@ terraform {
 
 provider "aws" {
   region = "us-east-1"  # Replace with your desired region
-  access_key = "AKIARAD3UQJCNRGSVZDX" #replace
-  secret_key = "+FxsbGXv10j3xeTNReawRfUChJDxm9KkYzNtjRqa" #replace
+  access_key = "AKIARAD3UQJCNRGSVZDXYZ" # replace with original values
+  secret_key = "+FxsbGXv10j3xeTNReawRfUChJDxm9KkYzNtjRqabz" #replace with original values
 }
